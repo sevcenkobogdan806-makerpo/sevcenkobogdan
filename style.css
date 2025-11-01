@@ -1,0 +1,16 @@
+.block{
+    background-color: aquamarine;
+}
+.text{
+    font-family: var(--font-family);
+font-weight: 900;
+font-size: 30px;
+text-align: center;
+color: #000;
+}
+.spysok{
+    font-family: var(--font-family);
+font-weight: 900;
+font-size: 30px;
+color: #434cee;
+}
